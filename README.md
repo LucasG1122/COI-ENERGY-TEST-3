@@ -5,7 +5,7 @@
 Welcome! 🎉
 
 
-This exercise involves building a Node.js/Express.js app that will serve a REST API. We imagine you should spend around 3 hours at implement this feature.
+This exercise involves building a Node.js/Express.js app that will serve a REST API.
 
 ## Data Models
 
@@ -29,9 +29,6 @@ contractor get paid for jobs by clients under a certain contract.
   
 The exercise requires [Node.js](https://nodejs.org/en/) to be installed. We recommend using the LTS version.
 
-  
-
-1. Start by cloning this repository.
 
   
 
@@ -124,3 +121,24 @@ When you have finished the assignment, create a github repository and send us th
   
 
 Thank you and good luck! 🙏
+
+Unit Test Instructions using Jest:
+1. Navigate to the test directory:
+cd <path-to-test-directory>
+
+2. Run the tests:
+npm test
+
+Simple Frontend Instructions:
+A simple frontend is provided to demonstrate API calls.
+
+1. Navigate to the frontend directory:
+cd <path-to-frontend-directory>
+
+2. Install frontend dependencies:
+npm install
+
+3. Start the frontend app:
+npm start
+
+4. Open your browser and go to http://localhost:3000 to see the frontend.
